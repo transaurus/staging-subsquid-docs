@@ -1,0 +1,12 @@
+{
+    "position": 70,
+    "label": "Resources",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "slug": "/cloud/resources",
+      "title": "SQD Cloud resources"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "position": 20,
+  "label": "SQD Network",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "slug": "/subsquid-network",
+    "title": "A distributed query engine and a data lake for blockchain data"
+  }
+}

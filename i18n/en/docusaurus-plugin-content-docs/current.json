@@ -1,0 +1,286 @@
+{
+  "version.label": {
+    "message": "Current",
+    "description": "The label for version current"
+  },
+  "sidebar.defaultSidebar.category.SQD Network": {
+    "message": "SQD Network",
+    "description": "The label for category SQD Network in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.SQD Network.link.generated-index.title": {
+    "message": "A distributed query engine and a data lake for blockchain data",
+    "description": "The generated-index page title for category SQD Network in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Participate": {
+    "message": "Participate",
+    "description": "The label for category Participate in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Participate.link.generated-index.title": {
+    "message": "Run a node - a worker or a gateway - or simply delegate your tokens",
+    "description": "The generated-index page title for category Participate in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Reference": {
+    "message": "Reference",
+    "description": "The label for category Reference in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Reference.link.generated-index.title": {
+    "message": "SQD Cloud reference documentation",
+    "description": "The generated-index page title for category Reference in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Indexing SDK": {
+    "message": "Indexing SDK",
+    "description": "The label for category Indexing SDK in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Indexing SDK.link.generated-index.title": {
+    "message": "Extract, transform, load and query historical blockchain data from SQD data lakes",
+    "description": "The generated-index page title for category Indexing SDK in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Getting started": {
+    "message": "Getting started",
+    "description": "The label for category Getting started in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Getting started.link.generated-index.title": {
+    "message": "Getting started with Squid SDK",
+    "description": "The generated-index page title for category Getting started in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Features & Guides": {
+    "message": "Features & Guides",
+    "description": "The label for category Features & Guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Features & Guides.link.generated-index.title": {
+    "message": "Resources for squid developers",
+    "description": "The generated-index page title for category Features & Guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Persisting data": {
+    "message": "Persisting data",
+    "description": "The label for category Persisting data in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Persisting data.link.generated-index.title": {
+    "message": "Supported data sinks for squid processors",
+    "description": "The generated-index page title for category Persisting data in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.EVM-specific": {
+    "message": "EVM-specific",
+    "description": "The label for category EVM-specific in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.EVM-specific.link.generated-index.title": {
+    "message": "Topics specific to EVM",
+    "description": "The generated-index page title for category EVM-specific in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Substrate-specific": {
+    "message": "Substrate-specific",
+    "description": "The label for category Substrate-specific in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Substrate-specific.link.generated-index.title": {
+    "message": "Topics specific to Substrate",
+    "description": "The generated-index page title for category Substrate-specific in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Tools": {
+    "message": "Tools",
+    "description": "The label for category Tools in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Tools.link.generated-index.title": {
+    "message": "Development tools for type-safe decoding the raw data, streamlined persistence with TypeORM, and code generation.",
+    "description": "The generated-index page title for category Tools in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Type-safe decoding": {
+    "message": "Type-safe decoding",
+    "description": "The label for category Type-safe decoding in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Type-safe decoding.link.generated-index.title": {
+    "message": "Generators of code for tech-specific tasks such as decoding and querying chains directly",
+    "description": "The generated-index page title for category Type-safe decoding in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Migration guides": {
+    "message": "Migration guides",
+    "description": "The label for category Migration guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Migration guides.link.generated-index.title": {
+    "message": "Guides to migrations from other frameworks and older SQD versions",
+    "description": "The generated-index page title for category Migration guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label for category Tutorials in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Tutorials.link.generated-index.title": {
+    "message": "Step-by-step tutorials",
+    "description": "The generated-index page title for category Tutorials in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Indexing BAYC": {
+    "message": "Indexing BAYC",
+    "description": "The label for category Indexing BAYC in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Indexing BAYC.link.generated-index.title": {
+    "message": "Guide into building a squid that indexes transfers, tokens and token owners of Bored Ape Yach Club NFTs. Each step ends with a working squid implementing a part of the final functionality.",
+    "description": "The generated-index page title for category Indexing BAYC in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Processors": {
+    "message": "Processors",
+    "description": "The label for category Processors in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Processors.link.generated-index.title": {
+    "message": "Classes for blockchain data extraction and transformation",
+    "description": "The generated-index page title for category Processors in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.EVM": {
+    "message": "EVM",
+    "description": "The label for category EVM in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.EVM.link.generated-index.title": {
+    "message": "EvmBatchProcessor reference documentation",
+    "description": "The generated-index page title for category EVM in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Substrate": {
+    "message": "Substrate",
+    "description": "The label for category Substrate in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Substrate.link.generated-index.title": {
+    "message": "SubstrateBatchProcessor reference documentation",
+    "description": "The generated-index page title for category Substrate in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Data sinks": {
+    "message": "Data sinks",
+    "description": "The label for category Data sinks in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Data sinks.link.generated-index.title": {
+    "message": "Classes for saving data",
+    "description": "The generated-index page title for category Data sinks in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.file-store extensions": {
+    "message": "file-store extensions",
+    "description": "The label for category file-store extensions in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.file-store extensions.link.generated-index.title": {
+    "message": "Tools for saving squid data to file-based datasets locally or on S3",
+    "description": "The generated-index page title for category file-store extensions in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Schema file": {
+    "message": "Schema file",
+    "description": "The label for category Schema file in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Schema file.link.generated-index.title": {
+    "message": "Definition of the database schema, entity classes and the core GraphQL API",
+    "description": "The generated-index page title for category Schema file in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.OpenReader": {
+    "message": "OpenReader",
+    "description": "The label for category OpenReader in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.OpenReader.link.generated-index.title": {
+    "message": "An open source GraphQL server built by SQD",
+    "description": "The generated-index page title for category OpenReader in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Configuration": {
+    "message": "Configuration",
+    "description": "The label for category Configuration in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Configuration.link.generated-index.title": {
+    "message": "Configuring and extending the server",
+    "description": "The generated-index page title for category Configuration in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Core API": {
+    "message": "Core API",
+    "description": "The label for category Core API in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Core API.link.generated-index.title": {
+    "message": "Core queries exposed by the OpenReader API",
+    "description": "The generated-index page title for category Core API in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.SQD Cloud": {
+    "message": "SQD Cloud",
+    "description": "The label for category SQD Cloud in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.SQD Cloud.link.generated-index.title": {
+    "message": "Deploy your indexers to SQD Cloud",
+    "description": "The generated-index page title for category SQD Cloud in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Resources": {
+    "message": "Resources",
+    "description": "The label for category Resources in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Resources.link.generated-index.title": {
+    "message": "SQD Cloud resources",
+    "description": "The generated-index page title for category Resources in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Solana indexing": {
+    "message": "Solana indexing",
+    "description": "The label for category Solana indexing in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Solana indexing.link.generated-index.title": {
+    "message": "Index Solana with SQD",
+    "description": "The generated-index page title for category Solana indexing in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.How to start": {
+    "message": "How to start",
+    "description": "The label for category How to start in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.How to start.link.generated-index.title": {
+    "message": "How to Start with Solana Indexing SDK",
+    "description": "The generated-index page title for category How to start in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.SDK": {
+    "message": "SDK",
+    "description": "The label for category SDK in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.SDK.link.generated-index.title": {
+    "message": "Index Solana with SQD",
+    "description": "The generated-index page title for category SDK in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.SolanaDataSource": {
+    "message": "SolanaDataSource",
+    "description": "The label for category SolanaDataSource in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.SolanaDataSource.link.generated-index.title": {
+    "message": "SolanaDataSource reference documentation",
+    "description": "The generated-index page title for category SolanaDataSource in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Network API": {
+    "message": "Network API",
+    "description": "The label for category Network API in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Network API.link.generated-index.title": {
+    "message": "SQD Network API documentation for Tron",
+    "description": "The generated-index page title for category Network API in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Fuel indexing": {
+    "message": "Fuel indexing",
+    "description": "The label for category Fuel indexing in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Fuel indexing.link.generated-index.title": {
+    "message": "Index Fuel with SQD",
+    "description": "The generated-index page title for category Fuel indexing in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.FuelDataSource": {
+    "message": "FuelDataSource",
+    "description": "The label for category FuelDataSource in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.FuelDataSource.link.generated-index.title": {
+    "message": "FuelDataSource reference documentation",
+    "description": "The generated-index page title for category FuelDataSource in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Tron indexing": {
+    "message": "Tron indexing",
+    "description": "The label for category Tron indexing in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Tron indexing.link.generated-index.title": {
+    "message": "Index Tron with SQD",
+    "description": "The generated-index page title for category Tron indexing in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.TronBatchProcessor": {
+    "message": "TronBatchProcessor",
+    "description": "The label for category TronBatchProcessor in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.TronBatchProcessor.link.generated-index.title": {
+    "message": "TronBatchProcessor reference documentation",
+    "description": "The generated-index page title for category TronBatchProcessor in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Squid CLI": {
+    "message": "Squid CLI",
+    "description": "The label for category Squid CLI in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Squid CLI.link.generated-index.title": {
+    "message": "Reference manual for the sqd utility",
+    "description": "The generated-index page title for category Squid CLI in sidebar defaultSidebar"
+  }
+}

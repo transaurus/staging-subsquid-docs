@@ -1,1 +1,0 @@
-# staging-subsquid-docs

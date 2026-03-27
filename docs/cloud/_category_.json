@@ -1,0 +1,12 @@
+{
+  "position": 23,
+  "label": "SQD Cloud",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "slug": "/cloud",
+    "title": "Deploy your indexers to SQD Cloud"
+  }
+}
